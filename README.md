@@ -1,6 +1,1 @@
-# kururu
-About me
-
-
-Am an Android and flutter developer 
-also i have a good base in NodeJs
+My name is Abdurrahim Hassan Kururu and today is Wednesday, 9 February, 13:26 CET
