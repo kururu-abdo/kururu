@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kururu-abdo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kururu-abdo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
