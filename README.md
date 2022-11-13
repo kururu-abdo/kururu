@@ -11,4 +11,4 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?kururu-abdo=anuraghazra&repo=github-readme-stats)](https://github.com/kururu-abdo/Scan2Pdf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kururu-abdo&repo=github-readme-stats)](https://github.com/kururu-abdo/Scan2Pdf)
