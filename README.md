@@ -12,3 +12,4 @@
 </p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kururu-abdo&repo=Scan2Pdf)](https://github.com/kururu-abdo/Scan2Pdf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kururu-abdo&repo=youtube_clone)](https://github.com/kururu-abdo/youtube_clone)
